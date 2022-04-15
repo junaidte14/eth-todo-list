@@ -1,0 +1,22 @@
+body {
+  margin: 0 !important;
+  font-family: sans-serif;
+}
+
+.home {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+.col {
+  width: 40%;
+  float: left;
+  overflow: hidden;
+  padding: 50px 5%;
+}
+
+.left {
+  background-color: #000000;
+  color: #ffffff;
+}
